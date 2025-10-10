@@ -26,7 +26,7 @@ Smart Task Prioritizer is a simple tool that helps you organize your tasks effor
 
 The application follows a simple data flow from the user to the machine learning model and back.
 
-![[WhatsApp Image 2025-10-03 at 20.47.00_c5efdc8d.jpg]]
+
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to fork the repository, make changes, and submit a pull request.
